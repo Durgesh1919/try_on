@@ -89,3 +89,5 @@ while True:
    cv2.imshow("Image",img)
    if cv2.waitKey(1) == ord('x'):
        break 
+
+    # THIS IS COMPLETED PROJECT
